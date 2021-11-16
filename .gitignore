@@ -1,0 +1,18 @@
+# For local files
+*.gitignore.*
+
+# Log file
+*.log
+
+# Backup
+*.bak
+
+# Binary
+*.exe
+*.dll
+
+# Delphi
+*.ddp
+*.dof
+*.drc
+*.dcu
